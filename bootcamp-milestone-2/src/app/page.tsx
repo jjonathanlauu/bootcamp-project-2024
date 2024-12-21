@@ -23,7 +23,7 @@ export default function Home() {
         </p>
         <div className={styles.aboutImage}>
           <Image
-            src="/JonathanLau_Picture.jpg" // Place this image in the `public` directory
+            src="/JonathanLau_Picture.jpg" // Place this image in the public directory
             alt="Personal picture of Jonathan Lau"
             width={500}
             height={500}
@@ -34,4 +34,3 @@ export default function Home() {
     </main>
   );
 }
-
