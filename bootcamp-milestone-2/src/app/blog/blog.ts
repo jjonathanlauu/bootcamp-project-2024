@@ -25,3 +25,4 @@ export const blogs: Blog[] = [
     slug: "understanding-typescript",
   },
 ];
+  
