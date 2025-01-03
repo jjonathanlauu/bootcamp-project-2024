@@ -1,6 +1,6 @@
 import React from 'react';
 import BlogPreview from '../components/blogPreview';
-import { blogs } from './blog'; 
+import { blogs } from '../blogdata/blog';
 import styles from './blog.module.css'; 
 
 const Page = () => {
