@@ -1,6 +1,7 @@
 import mongoose, { Schema } from "mongoose";
 
 type Blog = {
+  comments: any;
   title: string;
   description: string;
   date: Date;
